@@ -24,7 +24,7 @@
         <java.version>1.8</java.version>
         <velocity-engine-core.version>2.0</velocity-engine-core.version>
         <druid.version>1.1.10</druid.version>
-        <fastjson.version>1.2.46</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <mybatisplust.version>3.1.1</mybatisplust.version>
         <mybatisplus.generator.version>3.0.7.1</mybatisplus.generator.version>
         <shiro.version>1.4.0</shiro.version>
